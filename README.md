@@ -23,58 +23,11 @@ Requirements for the hardware, software and other tools to build, test and push
 - [Arduino IDE](https://docs.arduino.cc/software/ide-v2) (1.0 or 2.0)
 - [Android Studio Arctic Fox | 2020.3.1 Patch 2 September 1, 2021](https://developer.android.com/studio/archive) (Or similar IDE)
 
-### Installing
+## Installing
 
-#### Arduino 
+A more detailed README will be inside each different folder in order to explain the installation of the different tools in each platform
 
-Load the [source code](/Arduino/TESTv4%20-%20Final/TESTv4%20-%20Final.ino) into the board, after installing the Arduino IDE, following the steps explained in this [post](https://support.arduino.cc/hc/en-us/articles/4733418441116-Upload-a-sketch-in-Arduino-IDE)
-
-
-#### Raspberry Pi
-
-The Raspberry needs to have several aditional tools which are going to be installed by the command line.
-
-- Update the system
-
-      sudo apt-get update
-
-      sudo apt-get upgrade
-
-- Install Python
-
-      sudo apt-get install python3.6
-
-- Install Apache
-
-      sudo apt install apache2
-    
-    Check it is working
-
-      sudo systemctl status apache2
-
-- Install PHP
-
-      sudo apt install php libapache2-mod-php php-mysql
-
-    Restart apache
-
-      sudo systemctl restart apache2
-
-    Check it is working by opening this file
-
-      sudo nano /var/www/html/info.php
-
-    Write this text
-
-      <?php phpinfo(); ?>
-
-    Save and open this URL in the browser
-
-      http://localhost/info.php
-
-    If everything went fine, you should be able to see the info of the PHP version installed.
-
-#### Android App
+## Setting up the system
 
 ## Running the tests
 
