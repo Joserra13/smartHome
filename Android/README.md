@@ -6,9 +6,9 @@
 
 Go tho the [file](./myIoTApp2/app/src/main/java/dte/masteriot/mdp/myiotapp2/MainActivity.java) in the app and search for this lines.
 
-MQTT Broker IP:
+MQTT Broker IP:<br>
 ![MQTTBrokerIP](../Docs/img/mqttBrokerIP.jpg)
-
+<br><br>
 WebSocket Server IP
 ![WebSocketServerIP](../Docs/img/WebSocketServerIP.jpg)
 
