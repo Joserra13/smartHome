@@ -88,4 +88,4 @@ For more information about Websockets for PHP, check the official [site](http://
 
       bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)
 
-Once it is installed, load the [Node-RED flows](./noderedflows) into Node-RED following the steps explained in this [post](https://nodered.org/docs/user-guide/editor/workspace/import-export)
+Once it is installed, load the [Node-RED flows](./Node-RED%20flows/) into Node-RED following the steps explained in this [post](https://nodered.org/docs/user-guide/editor/workspace/import-export)
