@@ -58,22 +58,6 @@ Now that we have everyting installed in every platform. Lets run the whole syste
 
 5. At this point, the prototype is ready, once we have launched successfully all the components.
 
-## Running the tests
-
-After finishing the last chapter, the prototype is up and ready to go
-
-### Sample Tests
-
-Explain what these tests test and why
-
-    Give an example
-
-### Style test
-
-Checks if the best practices and the right coding style has been used.
-
-    Give an example
-
 ## Authors
 
   - **Joserra13**
