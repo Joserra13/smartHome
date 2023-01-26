@@ -76,7 +76,7 @@ Checks if the best practices and the right coding style has been used.
 
 ## Authors
 
-  - **Joserra13** -
+  - **Joserra13**
 
   [![LinkedIn][linkedin-shield]][linkedin-url]
 
