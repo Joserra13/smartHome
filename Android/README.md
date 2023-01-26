@@ -8,6 +8,7 @@ Go tho the [file](./myIoTApp2/app/src/main/java/dte/masteriot/mdp/myiotapp2/Main
 
 MQTT Broker IP:
 ![MQTTBrokerIP](../Docs/img/mqttBrokerIP.jpg)
+
 WebSocket Server IP
 ![WebSocketServerIP](../Docs/img/WebSocketServerIP.jpg)
 
