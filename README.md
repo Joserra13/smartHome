@@ -54,6 +54,8 @@ Now that we have everyting installed in every platform. Lets run the whole syste
 4. Last but not least, in order to have component in the system up and running, launch the app Node-RED which will start the mosquito service that will start the MQTT broker and the MQTT publisher simulating the sensors of the trash cans.<br><br>
 ![node1](./Docs/img/node1.jpg)<br>
 
+    Of course, check in the Node-RED app if the MQTT nodes are connected to the broker succesfully
+
 5. At this point, the prototype is ready, once we have launched successfully all the components.
 
 ## Running the tests
