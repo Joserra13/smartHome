@@ -46,7 +46,7 @@ If everything went fine, you should be able to see the info of the PHP version i
 
 ## Install Composer
 
-You can follow the [instructions] to download composer in the offical site.
+You can follow the [instructions](https://getcomposer.org/download/) to download composer in the offical site.
 
 But, in case for a quick install, go to the terminal, **create a folder**, move inside that folder and type these commands:
 ```
@@ -80,7 +80,7 @@ Then, go to the terminal and type:
 php composer.phar update
 ```
 
-Last but not least, copy inside that folder the [bin](./Composer%20(Server)/bin) and [bin](./Composer%20(Server)/src) folders from this repository.
+Last but not least, copy inside that folder the [bin](./Composer%20(Server)/bin) and [src](./Composer%20(Server)/src) folders from this repository.
 
 For more information about Websockets for PHP, check the official [site](http://socketo.me/) and check for the [installation](http://socketo.me/docs/install) steps.
 
