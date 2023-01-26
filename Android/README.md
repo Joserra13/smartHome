@@ -6,6 +6,8 @@
 
 First unzip the file with the [app](./myIoTApp2.zip). Then start Android Studio and click on "Open an existing Android Studio project". Finally, navigate to the root directory of the project and click OK.
 
+Once you have the project inside Android Studio, go check this [post](https://realm.io/building-android-app/) in order to build the project into the Android emulator.
+
 ## How does the app look
 
 ![My Image](../Docs/img/androidApp0.jpg)
