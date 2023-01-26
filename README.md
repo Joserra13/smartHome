@@ -60,7 +60,7 @@ Now that we have everyting installed in every platform. Lets run the whole syste
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+After finishing the last chapter, the prototype is up and ready to go
 
 ### Sample Tests
 
