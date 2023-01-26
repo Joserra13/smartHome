@@ -9,7 +9,7 @@ Go tho the [file](./myIoTApp2/app/src/main/java/dte/masteriot/mdp/myiotapp2/Main
 MQTT Broker IP:<br>
 ![MQTTBrokerIP](../Docs/img/mqttBrokerIP.jpg)
 <br><br>
-WebSocket Server IP
+WebSocket Server IP<br>
 ![WebSocketServerIP](../Docs/img/WebSocketServerIP.jpg)
 
 First unzip the file with the [app](./myIoTApp2.zip). Then start Android Studio and click on "Open an existing Android Studio project". Finally, navigate to the root directory of the project and click OK.
