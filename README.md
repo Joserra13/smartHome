@@ -4,7 +4,7 @@ This is a Smart Home Prototype developed during my Master's Thesis of the MSc of
 
 ![My Image](Docs/img/arch0.jpg)
 <br><br>
-![demovideo](./Docs/img/Proyecto sin título_.mp4)<br>
+![demovideo](https://github.com/Joserra13/smartHome/blob/main/Docs/img/Proyecto%20sin%20t%C3%ADtulo_.mp4)<br>
 
 
 ## Getting Started
