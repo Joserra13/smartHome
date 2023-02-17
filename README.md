@@ -2,9 +2,9 @@
 
 This is a Smart Home Prototype developed during my Master's Thesis of the MSc of Internet of Things. In order to read more about this project, check the [Documentation](Docs/).
 
-![My Image](Docs/img/arch0.jpg)
+![My Image](Docs/img/arch0.jpg)(https://youtu.be/-QtH_Jd3f9k)
 <br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d47DDvllGbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Click in the image below to watch a video of the demo
 <br>
 
 
